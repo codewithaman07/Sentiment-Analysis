@@ -34,11 +34,8 @@ The dataset used is **Sentiment140**, which contains 1.6 million labeled tweets:
    git clone https://github.com/your-username/twitter-sentiment-analysis.git
    cd twitter-sentiment-analysis
    ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Download the dataset and place it in the project directory.
+
+2. Download the dataset and place it in the project directory.
 
 ## Usage
 
